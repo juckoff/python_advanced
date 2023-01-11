@@ -4,19 +4,6 @@ from flask import Flask
 app = Flask(__name__)
 
 
-@app.route('/hello_world')
-def test_function():
-    return 'Это ноавя текстовая страничка, ответ сгенерирован в %s' % \
-                      datetime.datetime.now().utcnow()
-
-
-@app.route('/hello_world')
-def hello_world():
-    return 'Привет мир!'
-
-
-
-
 @app.route('/cars')
 def test_function():
     return 'Это ноавя текстовая страничка, ответ сгенерирован в %s' % \
@@ -72,20 +59,20 @@ with open('Война_и_мир_Льва_Толстого.txt', 'r') as f:
 print((random.choice(a.translate({ord(i): None for i in '.,!&:;«»„“'}).split())))
 
 
+
+@app.route('/')
+def main():
+    """Say hello"""
+    global index_counter
+    print(index_counter)
+    return "Hello World: %s" % str(index_counter)
+
 @app.route('/counter')
-def test_function():
-    return 'Это ноавя текстовая страничка, ответ сгенерирован в %s' % \
-           datetime.datetime.now().utcnow()
-
-
-def myfunction():
-    myfunction.counter += 1
-myfunction.counter = 0
-
-
-
-
+def counter():
+    global index_counter
+    index_counter = 0
+    while True:
+      index_counter += 1
 
 if __name__ == '__main__':
-    app.run(debug=True)
-
+    app.run(threaded=True)
