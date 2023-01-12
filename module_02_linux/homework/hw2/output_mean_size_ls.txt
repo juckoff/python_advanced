@@ -1,0 +1,4 @@
+total 16
+-rw-r--r--  1 victoriaschwartz  staff  2662 Jan 14 09:13 README.md
+-rw-r--r--  1 victoriaschwartz  staff  1246 Jan 14 15:14 get_mean_size.py
+-rw-r--r--  1 victoriaschwartz  staff     0 Jan 14 15:14 output_mean_size_ls.txt

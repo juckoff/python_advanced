@@ -1,0 +1,464 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+victoriaschwartz  9595 186.7  8.7  9444928 728184   ??  R     7:03PM  18:38.79 /Applications/VirtualBox.app/Contents/Resources/VirtualBoxVM.app/Contents/M
+victoriaschwartz  5103   2.7  8.2  9368508 686180   ??  S     7:43PM  11:24.13 /Applications/PyCharm CE.app/Contents/MacOS/pycharm
+_windowserver      138   2.6  0.3  7022988  23404   ??  Ss   Mon08PM  22:49.98 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer
+root               478   1.0  0.2  4687684  16936   ??  Ss   Mon08PM  10:42.40 /Library/SystemExtensions/B99ACA09-45E7-4EBA-8E98-FEE531EBF0A8/com.avira.sc
+root                 1   0.4  0.1  4341288   5556   ??  Ss   Mon08PM   0:46.92 /sbin/launchd
+root               109   0.3  0.1  4373656   4536   ??  Ss   Mon08PM   0:45.18 /usr/libexec/opendirectoryd
+victoriaschwartz  7204   0.2  0.2  6835244  17088   ??  S     8:18PM   1:14.79 /Applications/Visual Studio.app/Contents/SharedSupport/VSMonitor.app/Conten
+victoriaschwartz   612   0.1  0.1  4404992   5180   ??  S    Mon08PM   0:06.71 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+victoriaschwartz  4520   0.1  0.2  5417728  20052   ??  S    Mon08PM   0:38.21 /Applications/VirtualBox.app/Contents/MacOS/VirtualBox
+root                65   0.1  0.1  4429820  10960   ??  S<s  Mon08PM   1:08.24 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugI
+victoriaschwartz   786   0.1  0.0  5025028   3372   ??  S    Mon08PM   0:01.42 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+victoriaschwartz   778   0.1  0.1  4604072  10472   ??  SN   Mon08PM   1:09.81 /Applications/Bitdefender/AntivirusforMac.app/Contents/MacOS/AntivirusforMa
+victoriaschwartz  1021   0.1  0.1  4388016   6836   ??  S    Mon08PM   0:43.06 /Applications/VirtualBox.app/Contents/MacOS/VBoxSVC --auto-shutdown
+victoriaschwartz  1010   0.1  0.0  4307036   1028   ??  S    Mon08PM   0:15.17 /Applications/VirtualBox.app/Contents/MacOS/VBoxXPCOMIPCD
+victoriaschwartz  8129   0.0  0.1 1189034624   8300   ??  S     6:29AM   0:19.92 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz  7740   0.0  0.1  4374952   6452   ??  Ss   10:42PM   0:00.16 /Applications/Avira Security.app/Contents/PlugIns/Finder Extension.appex/Co
+victoriaschwartz  7735   0.0  0.0  4362268   4084   ??  Ss   10:41PM   0:00.10 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XP
+victoriaschwartz  7733   0.0  0.1  4374952   6452   ??  Ss   10:41PM   0:00.16 /Applications/Avira Security.app/Contents/PlugIns/Finder Extension.appex/Co
+victoriaschwartz  7672   0.0  0.1  4374952   6452   ??  Ss   10:39PM   0:00.15 /Applications/Avira Security.app/Contents/PlugIns/Finder Extension.appex/Co
+victoriaschwartz  7498   0.0  0.0  4365604   4184   ??  S     8:30PM   0:00.32 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Sup
+victoriaschwartz  7486   0.0  0.1  5031068   6680   ??  S     8:29PM   0:00.36 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreSer
+victoriaschwartz  7323   0.0  0.0  4352948   3584   ??  Ss    8:26PM   0:00.07 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XP
+victoriaschwartz  7227   0.0  0.1  4364084   4764   ??  S     8:19PM   0:00.18 /usr/libexec/keyboardservicesd
+victoriaschwartz  7226   0.0  0.1  4538952   5620   ??  S     8:19PM   0:01.07 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+victoriaschwartz  7223   0.0  0.1  4848732   7580   ??  Ss    8:19PM   0:00.37 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompil
+victoriaschwartz  7222   0.0  0.0  4853888   1644   ??  Ss    8:19PM   0:00.42 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompil
+victoriaschwartz  7221   0.0  0.1  6792220   6976   ??  S     8:19PM   0:10.52 /usr/local/share/dotnet/dotnet /Applications/Visual Studio.app/Contents/Mon
+victoriaschwartz  7201   0.0  0.3  9374920  23720   ??  S     8:17PM   2:03.82 /Applications/Visual Studio.app/Contents/MacOS/VisualStudio
+victoriaschwartz  7193   0.0  0.0  4378012   3280   ??  Ss    8:17PM   0:00.44 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VT
+victoriaschwartz  7192   0.0  0.0  4330040   2208   ??  Ss    8:17PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.aud
+root              7149   0.0  0.0  4329336   2564   ??  S     8:17PM   0:00.08 /System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/XPCServic
+victoriaschwartz  7109   0.0  0.1  4613004   6764   ??  Ss    8:16PM   0:05.73 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/Quick
+victoriaschwartz  6782   0.0  0.1  4426892   4732   ??  S     8:11PM   0:00.22 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/X
+victoriaschwartz  6766   0.0  0.0  4373856   3924   ??  S     8:11PM   0:00.07 /System/Library/PrivateFrameworks/StorageManagement.framework/Resources/dis
+victoriaschwartz  6746   0.0  0.0  4360364   2316   ??  Ss    8:11PM   0:00.06 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServic
+victoriaschwartz  6626   0.0  0.1  4409276   6212   ??  S     8:09PM   0:00.86 /usr/libexec/studentd
+victoriaschwartz  6426   0.0  0.0  4382404   2576   ??  Ss    8:04PM   1:14.50 /System/Library/PrivateFrameworks/DiskImages.framework/Resources/diskimages
+victoriaschwartz  6391   0.0  0.1  4374952   5136   ??  Ss    8:01PM   0:00.15 /Applications/Avira Security.app/Contents/PlugIns/Finder Extension.appex/Co
+victoriaschwartz  6390   0.0  0.0  4360364   2292   ??  Ss    8:01PM   0:00.03 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServic
+victoriaschwartz  6389   0.0  0.1  4866608   4956   ??  Ss    8:01PM   0:00.20 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLook
+victoriaschwartz  6388   0.0  0.1  5101856   9044   ??  Ss    8:01PM   0:10.11 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.appl
+victoriaschwartz  5516   0.0  0.0  4330172   2392   ??  S     7:57PM   0:00.04 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz  5393   0.0  0.0  4373684   2564   ??  Ss    7:49PM   0:00.14 /System/Library/PrivateFrameworks/DiskImages.framework/Resources/diskimages
+root              5391   0.0  0.0  4329244   1500   ??  Ss    7:49PM   0:00.05 /System/Library/PrivateFrameworks/DiskImages.framework/Resources/hdiejectd
+victoriaschwartz  5344   0.0  0.1  4374952   5132   ??  Ss    7:47PM   0:00.17 /Applications/Avira Security.app/Contents/PlugIns/Finder Extension.appex/Co
+victoriaschwartz  5343   0.0  0.0  4360364   2276   ??  Ss    7:47PM   0:00.04 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServic
+victoriaschwartz  5342   0.0  0.0  4330124    996   ??  Ss    7:47PM   0:00.05 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLib
+victoriaschwartz  5341   0.0  0.1  4866608   4956   ??  Ss    7:47PM   0:00.24 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLook
+victoriaschwartz  5340   0.0  0.1  5100720   7396   ??  Ss    7:47PM   0:06.36 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.appl
+root              5201   0.0  0.0  4321348   1128   ??  Ss    7:44PM   0:00.06 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resource
+victoriaschwartz  5187   0.0  0.0  4330008   1120   ??  S     7:44PM   0:00.02 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+root              5178   0.0  0.0  4329536    904   ??  Ss    7:44PM   0:00.03 /System/Library/Frameworks/Security.framework/authtrampoline
+victoriaschwartz  5113   0.0  0.0  4296892    920 s000  Ss    7:43PM   0:00.07 /bin/bash --rcfile /Applications/PyCharm CE.app/Contents/plugins/terminal/j
+victoriaschwartz  5110   0.0  0.0  4321548   1164   ??  S     7:43PM   0:01.48 /Applications/PyCharm CE.app/Contents/bin/fsnotifier
+victoriaschwartz  5099   0.0  0.1  4365408   4620   ??  Ss    7:43PM   0:00.10 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.Clo
+victoriaschwartz  5097   0.0  0.0  4359752   3140   ??  Ss    7:43PM   0:00.05 /System/Library/PrivateFrameworks/FMClient.framework/Versions/A/XPCServices
+victoriaschwartz  5091   0.0  0.0  4360532   3984   ??  S     7:43PM   0:00.11 /usr/libexec/siriknowledged
+victoriaschwartz  5089   0.0  0.0  4330140   4192   ??  S     7:43PM   0:00.15 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resource
+victoriaschwartz  5062   0.0  0.0  4329568   1460   ??  S     7:42PM   0:00.03 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheck
+root              4713   0.0  0.0  4405296   2996   ??  Ss   Mon09PM   0:01.71 /System/Library/CoreServices/iconservicesagent runAsRoot
+root              4711   0.0  0.0  4365184   4108   ??  Ss   Mon09PM   0:09.54 /System/Library/PrivateFrameworks/StorageKit.framework/Resources/storagekit
+root              4708   0.0  0.0  4330200   2172   ??  Ss   Mon09PM   0:00.03 /usr/libexec/tzd
+victoriaschwartz  4707   0.0  0.0  4329552   2956   ??  S    Mon09PM   0:00.08 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowS
+root              4706   0.0  0.0  4329908   1024   ??  Ss   Mon09PM   0:00.06 /usr/libexec/mobileactivationd
+victoriaschwartz  4646   0.0  0.0  4385568   2776   ??  S    Mon08PM   0:05.60 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCService
+victoriaschwartz  4645   0.0  0.0  4329664   1688   ??  S    Mon08PM   0:00.07 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XPro
+root              4644   0.0  0.0  4385416   2704   ??  Ss   Mon08PM   0:05.30 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCService
+root              4643   0.0  0.0  4329664   1652   ??  Ss   Mon08PM   0:00.06 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XPro
+root              4642   0.0  0.0  4321936   1164   ??  Ss   Mon08PM   0:00.01 /usr/libexec/applessdstatistics
+victoriaschwartz  4640   0.0  0.0  4360936   3504   ??  S    Mon08PM   0:00.12 cloudphotod
+victoriaschwartz  4632   0.0  0.1  4380924   8288   ??  S    Mon08PM   0:21.30 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Su
+victoriaschwartz  4630   0.0  0.0  4360568   3692   ??  S    Mon08PM   0:00.16 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHisto
+root              4623   0.0  0.0  4359900   3012   ??  Ss   Mon08PM   0:00.12 /System/Library/PrivateFrameworks/DifferentialPrivacy.framework/XPCServices
+victoriaschwartz  4615   0.0  0.1  4364888   4888   ??  S    Mon08PM   0:00.82 /System/iOSSupport/System/Library/PrivateFrameworks/AvatarUI.framework/Supp
+victoriaschwartz  4614   0.0  0.1  4361936   4464   ??  S    Mon08PM   0:00.25 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotifi
+_spotlight        4612   0.0  0.0  4330620   3628   ??  S    Mon08PM   0:00.48 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz  4611   0.0  0.0  4330636   3540   ??  S    Mon08PM   0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+root              4594   0.0  0.0  4305484    308   ??  SNs  Mon08PM   0:00.01 /usr/libexec/periodic-wrapper weekly
+victoriaschwartz  4583   0.0  0.0  4360280   3684   ??  S    Mon08PM   0:00.13 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/
+victoriaschwartz  4582   0.0  0.0  4387748   3964   ??  Ss   Mon08PM   0:00.30 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XP
+victoriaschwartz  4551   0.0  0.0  4366776   3780   ??  S    Mon08PM   0:00.28 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/A
+victoriaschwartz  4535   0.0  0.0  4364968   2656   ??  Ss   Mon08PM   0:00.82 /System/Applications/Music.app/Contents/PlugIns/MusicCacheExtension.appex/C
+victoriaschwartz  4534   0.0  0.0  4364968   2652   ??  Ss   Mon08PM   0:00.76 /System/Applications/TV.app/Contents/PlugIns/TVCacheExtension.appex/Content
+victoriaschwartz  4533   0.0  0.0  4371500   3144   ??  Ss   Mon08PM   0:01.96 /Applications/Safari.app/Contents/PlugIns/CacheDeleteExtension.appex/Conten
+victoriaschwartz  4532   0.0  0.0  4331884   1908   ??  S    Mon08PM   0:00.37 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resource
+root              4531   0.0  0.0  4380020   2712   ??  Ss   Mon08PM   0:19.93 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root              4530   0.0  0.0  4368384   2624   ??  Ss   Mon08PM   0:00.89 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_ins
+victoriaschwartz  4529   0.0  0.0  4365296   2452   ??  Ss   Mon08PM   0:00.17 /System/Applications/Mail.app/Contents/PlugIns/MailCacheDelete.appex/Conten
+root              4528   0.0  0.0  4361316   1640   ??  Ss   Mon08PM   0:00.08 /usr/bin/sysdiagnose
+root              4527   0.0  0.0  4360072   3116   ??  Ss   Mon08PM   0:00.61 /usr/libexec/symptomsd-diag
+root              4526   0.0  0.0  4360428   2932   ??  Ss   Mon08PM   0:00.68 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd -
+root              4524   0.0  0.0  4330060    948   ??  Ss   Mon08PM   0:00.41 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+victoriaschwartz  4523   0.0  0.0  4330460   1852   ??  S    Mon08PM   0:00.37 /usr/libexec/replayd
+victoriaschwartz  4522   0.0  0.0  4361088   2624   ??  S    Mon08PM   0:23.90 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+victoriaschwartz  4517   0.0  0.0  4364476   3292   ??  S    Mon08PM   0:00.54 /usr/libexec/transparencyd
+root              4508   0.0  0.0  4359652   1588   ??  Ss   Mon08PM   0:00.09 /usr/libexec/microstackshot
+root              4449   0.0  0.0  4362868   1412   ??  Ss   Mon08PM   0:00.17 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XP
+_assetcache       4448   0.0  0.0  4301872    380   ??  S    Mon08PM   0:00.07 /usr/sbin/distnoted agent
+_assetcache       4441   0.0  0.0  4361784   2224   ??  Ss   Mon08PM   0:00.50 /usr/libexec/AssetCache/AssetCache
+victoriaschwartz  4440   0.0  0.0  4363220   2400   ??  S    Mon08PM   0:01.06 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/X
+victoriaschwartz  4428   0.0  0.0  5056656   3728   ??  S    Mon08PM   0:01.55 /System/Library/CoreServices/LocationMenu.app/Contents/MacOS/LocationMenu
+victoriaschwartz  4426   0.0  0.0  4360560   2572   ??  S    Mon08PM   0:00.46 /usr/libexec/triald
+root              4425   0.0  0.0  4313676    256   ??  SNs  Mon08PM   0:00.02 /usr/libexec/periodic-wrapper daily
+victoriaschwartz  4424   0.0  0.0  4331096   1736   ??  S    Mon08PM   0:00.29 /System/Library/CoreServices/ScopedBookmarkAgent
+victoriaschwartz  4421   0.0  0.1  4546248   4632   ??  S    Mon08PM   0:00.70 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resource
+victoriaschwartz  4420   0.0  0.0  4359732   1548   ??  S    Mon08PM   0:00.07 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localiz
+victoriaschwartz  4405   0.0  0.0  4362296   1816   ??  S    Mon08PM   0:00.91 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechS
+root              4401   0.0  0.0  4364836   3036   ??  Ss   Mon08PM   0:01.10 /usr/libexec/dprivacyd
+victoriaschwartz  4398   0.0  0.1  4376228   5300   ??  S    Mon08PM   0:29.16 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Suppor
+victoriaschwartz  4393   0.0  0.0  4363772   3900   ??  S    Mon08PM   0:00.94 /System/Library/CoreServices/mapspushd
+root              4392   0.0  0.0  4330648   1032   ??  Ss   Mon08PM   0:00.08 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCSe
+_installcoordinationd  4391   0.0  0.0  4330228   1396   ??  Ss   Mon08PM   0:00.14 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/ins
+victoriaschwartz  4389   0.0  0.0  4329852   1592   ??  S    Mon08PM   0:00.05 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support
+victoriaschwartz  4387   0.0  0.0  4330140   1796   ??  S    Mon08PM   0:00.37 /usr/libexec/silhouette
+victoriaschwartz  4386   0.0  0.1  4403028   7580   ??  S    Mon08PM   0:03.92 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstore
+victoriaschwartz  4385   0.0  0.0  4364480   2568   ??  S    Mon08PM   0:02.52 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/Ma
+victoriaschwartz  4369   0.0  0.0  4886752   3108   ??  S    Mon08PM   0:00.38 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+root              4343   0.0  0.0  4329780   1132   ??  Ss   Mon08PM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.aud
+victoriaschwartz  4342   0.0  0.0  4329780   1132   ??  Ss   Mon08PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.aud
+root              3850   0.0  0.0  4361040   2572   ??  Ss   Mon08PM   0:00.19 /Library/Application Support/Avira Security/installd.app/Contents/MacOS/ins
+_fpsd             3815   0.0  0.0  4330160    532   ??  Ss   Mon08PM   0:00.17 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+root              3810   0.0  0.0  4366636   2748   ??  Ss   Mon08PM   0:03.45 /Applications/Avast.app/Contents/XPCServices/com.avast.av.api.xpc
+victoriaschwartz  3705   0.0  0.1  4434952   7820   ??  S    Mon08PM   0:01.23 /Applications/Avast.app/Contents/MacOS/Avast -standaloneInstanceAllowed YES
+root              3594   0.0  0.0  4330676   1316   ??  S    Mon08PM   0:00.07 /Applications/Avast.app/Contents/Backend/utils/Avast Security.app/Contents/
+root              3593   0.0  0.0  4324428   1084   ??  S    Mon08PM   0:00.50 /Applications/Avast.app/Contents/Backend/utils/com.avast.Antivirus.Endpoint
+root              3586   0.0  0.0  4336440   2500   ??  Ss   Mon08PM   0:00.58 /Applications/Avast.app/Contents/Backend/services/com.avast.service
+root              3565   0.0  0.0  4344628   3168   ??  Ss   Mon08PM   0:00.59 /Applications/Avast.app/Contents/Backend/services/com.avast.hns
+root              3551   0.0  0.0  4335284   1228   ??  Ss   Mon08PM   0:00.04 /Applications/Avast.app/Contents/Backend/services/com.avast.securedns
+root              3531   0.0  0.0  4355076   1728   ??  Ss   Mon08PM   0:03.13 /Applications/Avast.app/Contents/Backend/services/com.avast.proxy
+root              3453   0.0  0.0  4300944   1852   ??  Ss   Mon08PM   0:00.60 /Applications/Avast.app/Contents/Backend/services/com.avast.fileshield
+root              3332   0.0  0.0  4585852   4068   ??  Ss   Mon08PM   0:19.65 /Applications/Avast.app/Contents/Backend/services/com.avast.daemon
+root              3201   0.0  0.0  4301076    992   ??  Ss   Mon08PM   0:00.06 /Applications/Avast.app/Contents/Backend/services/com.avast.ext
+root              3094   0.0  0.0  4300784    876   ??  Ss   Mon08PM   0:00.09 /Applications/Avast.app/Contents/Backend/services/com.avast.activity -d
+victoriaschwartz  1193   0.0  0.1 38189860   4936   ??  S    Mon08PM   0:06.02 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+_spotlight        1190   0.0  0.0  4330372    280   ??  S    Mon08PM   0:00.09 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=glob
+root              1152   0.0  0.0  4361036   1420   ??  S    Mon08PM   0:00.72 /Library/Application Support/AvastHUB/com.avast.hub.app/Contents/Helpers/co
+root              1151   0.0  0.0  4360368   1236   ??  Ss   Mon08PM   0:01.95 /Library/Application Support/AvastHUB/com.avast.hub.app/Contents/Helpers/co
+victoriaschwartz  1150   0.0  0.0  4330040    136   ??  Ss   Mon08PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.aud
+victoriaschwartz  1149   0.0  0.0  4361596   1708   ??  S    Mon08PM   0:01.02 /Library/Application Support/AvastHUB/com.avast.hub.app/Contents/Helpers/co
+victoriaschwartz  1148   0.0  0.0  4360384   1416   ??  S    Mon08PM   0:02.03 /Library/Application Support/AvastHUB/com.avast.hub.app/Contents/MacOS/com.
+victoriaschwartz  1137   0.0  0.0 38184384   3432   ??  S    Mon08PM   0:01.88 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz  1136   0.0  0.0  4361952    632   ??  Ss   Mon08PM   0:00.23 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonCompone
+victoriaschwartz  1135   0.0  0.0  4330196   1272   ??  S    Mon08PM   0:00.16 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+root              1067   0.0  0.0  4330076    136   ??  Ss   Mon08PM   0:00.02 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/XPCServices/com
+victoriaschwartz  1066   0.0  0.0  4366080   3364   ??  S    Mon08PM   0:00.86 /usr/libexec/adprivacyd
+root              1065   0.0  0.0  4361948    656   ??  S    Mon08PM   0:00.27 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+victoriaschwartz  1062   0.0  0.0  4363392   1836   ??  Ss   Mon08PM   0:00.40 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServic
+victoriaschwartz  1060   0.0  0.0  4868812   3028   ??  Ss   Mon08PM   0:00.83 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xp
+root              1059   0.0  0.0  4330176    720   ??  Ss   Mon08PM   0:00.07 /usr/libexec/morphunassetsupdaterd
+root              1057   0.0  0.0  4331152    956   ??  Ss   Mon08PM   0:01.70 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolica
+victoriaschwartz  1052   0.0  0.0  4360992   1780   ??  S    Mon08PM   0:01.98 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+root              1044   0.0  0.0  4330108    252   ??  Ss   Mon08PM   0:00.02 /usr/libexec/online-authd
+root              1043   0.0  0.0  4360300    948   ??  Ss   Mon08PM   0:00.52 /usr/libexec/aned
+root              1042   0.0  0.0  4400004   2252   ??  Ss   Mon08PM   1:41.18 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XP
+victoriaschwartz  1041   0.0  0.0  4876708   3104   ??  S    Mon08PM   0:17.36 /Users/victoriaschwartz/Library/Application Support/Adobe/com.adobe.ARMDCHe
+_fpsd             1040   0.0  0.0  4329884    480   ??  Ss   Mon08PM   0:00.19 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+victoriaschwartz  1036   0.0  0.0  4361140    380   ??  Ss   Mon08PM   0:00.17 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XP
+root              1034   0.0  0.0  4329540    728   ??  Ss   Mon08PM   0:00.03 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+_reportmemoryexception  1033   0.0  0.0  4301872    228   ??  S    Mon08PM   0:00.08 /usr/sbin/distnoted agent
+victoriaschwartz  1031   0.0  0.0  4330192    296   ??  S    Mon08PM   0:00.03 /System/Library/CoreServices/ReportCrash agent
+_spotlight        1027   0.0  0.0  4362564   1980   ??  S    Mon08PM   0:01.67 /usr/libexec/trustd --agent
+victoriaschwartz  1012   0.0  0.1  4466320   8040   ??  S    Mon08PM   0:01.99 6H4HRTU5E3.com.avast.osx.secureline.avastsecurelinehelper
+victoriaschwartz  1011   0.0  0.0  4330124    356   ??  Ss   Mon08PM   0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLib
+victoriaschwartz   931   0.0  0.3 1189251496  23732   ??  S    Mon08PM   1:07.65 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+_spotlight         885   0.0  0.0  4364540    828   ??  S    Mon08PM   0:00.14 /usr/libexec/pkd
+victoriaschwartz   876   0.0  0.0  4330632    168   ??  S    Mon08PM   0:00.04 /usr/libexec/loginitemregisterd
+victoriaschwartz   871   0.0  0.0  4546596   3352   ??  S    Mon08PM   0:01.07 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/Softwa
+victoriaschwartz   857   0.0  0.0  4367508   1944   ??  SN   Mon08PM   0:08.98 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+_spotlight         856   0.0  0.0  4367256   1940   ??  SN   Mon08PM   0:08.98 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz   848   0.0  0.0  4362616    556   ??  Ss   Mon08PM   0:00.25 /System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/
+victoriaschwartz   846   0.0  0.0  4364552    724   ??  Ss   Mon08PM   0:00.32 /Library/Application Support/Avira Security/UIAgent.app/Contents/XPCService
+victoriaschwartz   842   0.0  0.0  4378152    420   ??  Ss   Mon08PM   0:00.22 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VT
+victoriaschwartz   803   0.0  0.0  4329716    848   ??  S    Mon08PM   0:00.15 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/
+victoriaschwartz   802   0.0  0.0  4398104   2992   ??  S    Mon08PM   0:00.64 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInput
+root               801   0.0  0.0  4329684    500   ??  Ss   Mon08PM   0:00.10 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/
+victoriaschwartz   799   0.0  0.0  4363436   2396   ??  S    Mon08PM   0:01.18 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/am
+victoriaschwartz   797   0.0  0.0  5058892   2844   ??  S    Mon08PM   0:01.34 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInpu
+victoriaschwartz   796   0.0  0.0  4360320   2328   ??  S    Mon08PM   0:01.64 /System/Library/CoreServices/diagnostics_agent
+victoriaschwartz   795   0.0  0.0  4359784    952   ??  S    Mon08PM   0:00.73 /System/Library/CoreServices/cloudpaird
+victoriaschwartz   793   0.0  0.0  4866544   1588   ??  S    Mon08PM   0:00.23 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAge
+victoriaschwartz   791   0.0  0.0  4363800   1844   ??  S    Mon08PM   0:00.82 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resour
+victoriaschwartz   788   0.0  0.1  4586512   7840   ??  S    Mon08PM   0:05.32 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugI
+victoriaschwartz   787   0.0  0.0  4359968   2044   ??  S    Mon08PM   0:03.25 /System/Library/Image Capture/Support/icdd
+victoriaschwartz   785   0.0  0.0  4268256    228   ??  S    Mon08PM   0:00.01 /Library/Application Support/AvastSecureLine/components/update/com.avast.os
+victoriaschwartz   784   0.0  0.0  4572596   3372   ??  S    Mon08PM   0:00.77 /Applications/Avira Security.app/Contents/Helpers/Avira StatusMenu.app/Cont
+victoriaschwartz   781   0.0  0.0  4375552   1608   ??  S    Mon08PM   0:00.30 /Library/PreferencePanes/ParagonNTFS.prefPane/Contents/Resources/com.parago
+victoriaschwartz   776   0.0  0.0  4361716    680   ??  S    Mon08PM   0:00.39 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+victoriaschwartz   774   0.0  0.0  4361740   2048   ??  S    Mon08PM   0:00.14 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/Pod
+victoriaschwartz   773   0.0  0.0  4329568    136   ??  Ss   Mon08PM   0:00.01 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemo
+victoriaschwartz   771   0.0  0.0  4360172   1788   ??  S    Mon08PM   0:03.19 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageT
+victoriaschwartz   770   0.0  0.0  4375652   1572   ??  Ss   Mon08PM   0:03.21 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VT
+root               769   0.0  0.0  4329944    292   ??  Ss   Mon08PM   0:00.08 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+victoriaschwartz   765   0.0  0.0  4360676    268   ??  S    Mon08PM   0:00.17 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/Ma
+_gamecontrollerd   764   0.0  0.0  4330876   2084   ??  Ss   Mon08PM   0:49.00 /usr/libexec/gamecontrollerd
+victoriaschwartz   762   0.0  0.1 38182164   4708   ??  S    Mon08PM   0:03.56 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz   761   0.0  0.0  4412060   4140   ??  S    Mon08PM   0:02.38 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/A
+victoriaschwartz   760   0.0  0.4 38202192  30036   ??  S    Mon08PM   1:14.98 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz   759   0.0  0.4 38567164  30960   ??  S    Mon08PM   3:16.58 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz   758   0.0  0.0  4330028    284   ??  S    Mon08PM   0:00.12 /usr/libexec/USBAgent
+root               757   0.0  0.0  4312872    232   ??  Ss   Mon08PM   0:00.02 /usr/libexec/misagent
+_cmiodalassistants   754   0.0  0.0  4331120    320   ??  Ss   Mon08PM   0:00.16 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/Apple
+victoriaschwartz   748   0.0  0.0  4289464    544   ??  S    Mon08PM   0:00.01 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz   746   0.0  0.0  4332848    824   ??  S    Mon08PM   0:00.05 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz   743   0.0  0.0  4365328   1648   ??  S    Mon08PM   0:00.17 /usr/libexec/neagent
+victoriaschwartz   741   0.0  0.0  4866488   3052   ??  Ss   Mon08PM   0:01.13 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extensi
+victoriaschwartz   738   0.0  0.0  4361580   1668   ??  S    Mon08PM   0:00.32 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagen
+victoriaschwartz   737   0.0  0.0  4330808   1996   ??  S    Mon08PM   0:00.23 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Framewo
+victoriaschwartz   736   0.0  0.0  4361008    548   ??  S    Mon08PM   0:00.49 /usr/libexec/diagnosticextensionsd
+victoriaschwartz   735   0.0  0.0  4368612   2968   ??  S    Mon08PM   0:01.54 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resource
+victoriaschwartz   734   0.0  0.0  4363352   1316   ??  S    Mon08PM   0:00.24 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+victoriaschwartz   733   0.0  0.0  4360740    744   ??  Ss   Mon08PM   0:00.14 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemo
+victoriaschwartz   732   0.0  0.0  4875824   3172   ??  Ss   Mon08PM   1:26.82 /System/Library/CoreServices/Clock.app/Contents/PlugIns/WorldClockWidget.ap
+victoriaschwartz   731   0.0  0.1  4911540   5264   ??  Ss   Mon08PM   0:13.38 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWid
+victoriaschwartz   730   0.0  0.1  4913492   4504   ??  Ss   Mon08PM   0:12.13 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Content
+victoriaschwartz   729   0.0  0.1  5063768   6640   ??  Ss   Mon08PM   0:36.90 /System/Library/CoreServices/ClimateProxy.app/Contents/PlugIns/WeatherWidge
+victoriaschwartz   728   0.0  0.0  4895016   3724   ??  Ss   Mon08PM   0:27.73 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.
+victoriaschwartz   727   0.0  0.0  4531604   1888   ??  S    Mon08PM   0:00.30 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocat
+victoriaschwartz   726   0.0  0.0  4365956    524   ??  Ss   Mon08PM   0:00.38 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServic
+root               725   0.0  0.0  4365444   2776   ??  Ss   Mon08PM   0:00.97 /usr/libexec/rtcreportingd
+root               723   0.0  0.0  4330244    964   ??  Ss   Mon08PM   0:00.23 /usr/libexec/wifivelocityd
+_netbios           722   0.0  0.0  4330448    592   ??  SNs  Mon08PM   0:00.35 /usr/sbin/netbiosd
+victoriaschwartz   720   0.0  0.0  4378068   4156   ??  S    Mon08PM   0:01.79 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagem
+victoriaschwartz   719   0.0  0.0  4369624   2560   ??  Ss   Mon08PM   0:02.22 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A
+victoriaschwartz   717   0.0  0.0  4329620    460   ??  S    Mon08PM   0:00.09 /usr/libexec/WiFiVelocityAgent
+victoriaschwartz   716   0.0  0.0  4362804    684   ??  Ss   Mon08PM   0:00.26 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemo
+victoriaschwartz   715   0.0  0.0  4367052   1760   ??  Ss   Mon08PM   0:00.37 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemo
+victoriaschwartz   714   0.0  0.0  4363956    680   ??  Ss   Mon08PM   0:00.24 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemo
+root               713   0.0  0.0  4364120   3872   ??  Ss   Mon08PM   0:01.01 /System/Library/CoreServices/SubmitDiagInfo server-init
+victoriaschwartz   712   0.0  0.0  4322672    360   ??  S    Mon08PM   0:00.04 /usr/libexec/spindump_agent
+root               711   0.0  0.0  4363296   2176   ??  Ss   Mon08PM   0:05.66 /usr/sbin/spindump
+root               710   0.0  0.0  4330356    232   ??  Ss   Mon08PM   0:00.26 /usr/libexec/xpcroleaccountd -launchd
+root               709   0.0  0.0  4333152    636   ??  Ss   Mon08PM   0:00.11 /private/var/db/com.apple.xpc.roleaccountd.staging/com.apple.MobileSoftware
+victoriaschwartz   708   0.0  0.0  4359748   1156   ??  S    Mon08PM   0:00.11 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resourc
+_captiveagent      707   0.0  0.0  4330748    420   ??  Ss   Mon08PM   0:00.15 /usr/libexec/captiveagent
+victoriaschwartz   706   0.0  0.0  4360364   1340   ??  Ss   Mon08PM   0:00.07 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServic
+root               705   0.0  0.0  4359984    136   ??  Ss   Mon08PM   0:00.07 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A
+root               704   0.0  0.0  4331500    612   ??  Ss   Mon08PM   0:00.16 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelpe
+_softwareupdate    703   0.0  0.0  4301872    228   ??  S    Mon08PM   0:00.08 /usr/sbin/distnoted agent
+victoriaschwartz   702   0.0  0.0  4329540    460   ??  S    Mon08PM   0:00.07 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremote
+victoriaschwartz   701   0.0  0.0  4396284   2964   ??  S    Mon08PM   0:23.00 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDP
+victoriaschwartz   700   0.0  0.0  4360456    816   ??  Ss   Mon08PM   0:00.46 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServic
+victoriaschwartz   698   0.0  0.0  4519308   3124   ??  S    Mon08PM   0:03.00 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServic
+victoriaschwartz   697   0.0  0.0  4370680   2884   ??  S    Mon08PM   0:01.38 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileprovid
+victoriaschwartz   696   0.0  0.0  4457280   3976   ??  S    Mon08PM   0:13.76 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Supp
+victoriaschwartz   695   0.0  0.0  4361544   2444   ??  S    Mon08PM   0:00.76 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/Mac
+victoriaschwartz   694   0.0  0.0  4704256   2528   ??  S    Mon08PM   0:19.04 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz   693   0.0  0.0  4374616   3788   ??  S    Mon08PM   0:03.18 /usr/libexec/sharingd
+root               692   0.0  0.0  4361280   1220   ??  Ss   Mon08PM   0:00.69 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCSe
+victoriaschwartz   690   0.0  0.0  4387176   3908   ??  S    Mon08PM   0:17.20 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/Calen
+victoriaschwartz   689   0.0  0.0  4369104   2448   ??  S    Mon08PM   0:01.48 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservices
+root               688   0.0  0.0  4360456    608   ??  Ss   Mon08PM   0:00.30 /usr/sbin/WirelessRadioManagerd
+root               687   0.0  0.0  4359924    228   ??  Ss   Mon08PM   0:00.32 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CAReportingSe
+victoriaschwartz   686   0.0  0.0  4372376   4052   ??  S    Mon08PM   0:42.31 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+victoriaschwartz   683   0.0  0.0  4329868    544   ??  S    Mon08PM   0:00.19 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKey
+victoriaschwartz   682   0.0  0.0  4360032   1536   ??  S    Mon08PM   0:00.50 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/P
+victoriaschwartz   681   0.0  0.0  4329540    400   ??  S    Mon08PM   0:00.07 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cd
+victoriaschwartz   679   0.0  0.0  4374792   1504   ??  S    Mon08PM   0:00.29 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacO
+victoriaschwartz   678   0.0  0.0  4865380   1904   ??  S    Mon08PM   0:01.20 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem sys
+victoriaschwartz   676   0.0  0.0  4372552   4060   ??  S    Mon08PM   0:03.19 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServi
+victoriaschwartz   675   0.0  0.0  4360012   2532   ??  S    Mon08PM   0:00.52 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccoun
+root               674   0.0  0.0  4361632   2572   ??  Ss   Mon08PM   0:09.03 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+victoriaschwartz   673   0.0  0.1  4390564   5148   ??  S    Mon08PM   0:01.11 /Library/Application Support/Avira Security/UIAgent.app/Contents/MacOS/UIAg
+victoriaschwartz   671   0.0  0.0  4875568   2560   ??  S    Mon08PM   0:05.33 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.appl
+victoriaschwartz   670   0.0  0.0  4901600   3216   ??  Ss   Mon08PM   0:00.79 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.e
+victoriaschwartz   669   0.0  0.0  4360904   2728   ??  S    Mon08PM   0:01.10 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivit
+victoriaschwartz   667   0.0  0.0  4530464   2812   ??  Ss   Mon08PM   0:00.30 /Applications/Avira Security.app/Contents/PlugIns/Finder Extension.appex/Co
+victoriaschwartz   666   0.0  0.0  5026436   1868   ??  S    Mon08PM   0:00.34 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/
+root               665   0.0  0.0  4360020    408   ??  Ss   Mon08PM   0:00.12 /usr/libexec/wifianalyticsd
+victoriaschwartz   664   0.0  0.0  4360016   1096   ??  S    Mon08PM   0:00.34 /usr/libexec/fmfd
+_softwareupdate    663   0.0  0.1  4462060   4208   ??  Ss   Mon08PM   0:30.85 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwar
+victoriaschwartz   662   0.0  0.0  4532084   2628   ??  S    Mon08PM   0:02.66 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+victoriaschwartz   661   0.0  0.0  4360296   1780   ??  S    Mon08PM   0:00.38 /System/Library/CoreServices/pbs
+victoriaschwartz   660   0.0  0.0  4411852   3560   ??  S    Mon08PM   0:08.69 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A
+_fpsd              659   0.0  0.0  4331836   1176   ??  Ss   Mon08PM   0:00.37 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+victoriaschwartz   658   0.0  0.0  4360356   1292   ??  S    Mon08PM   0:00.20 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+victoriaschwartz   655   0.0  0.0  4365328   1612   ??  S    Mon08PM   0:00.20 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/A
+victoriaschwartz   654   0.0  0.0  4545244   2620   ??  S    Mon08PM   0:10.15 /System/Library/CoreServices/iconservicesagent
+victoriaschwartz   653   0.0  0.1  4376096   4776   ??  S    Mon08PM   0:02.91 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+victoriaschwartz   651   0.0  0.0  4383492    336   ??  S    Mon08PM   0:00.80 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Framewo
+victoriaschwartz   650   0.0  0.0  4364412   1944   ??  S    Mon08PM   0:00.47 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+root               649   0.0  0.0  4335996   2032   ??  Ss   Mon08PM   0:00.59 /usr/sbin/filecoordinationd
+victoriaschwartz   648   0.0  0.0  4361356   3040   ??  S    Mon08PM   0:10.91 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.fra
+victoriaschwartz   647   0.0  0.0  4430476   4044   ??  Ss   Mon08PM   0:03.42 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XP
+victoriaschwartz   646   0.0  0.0  4366768   2296   ??  S    Mon08PM   0:02.35 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+_appleevents       645   0.0  0.0  4301872    228   ??  S    Mon08PM   0:00.08 /usr/sbin/distnoted agent
+victoriaschwartz   644   0.0  0.0  4367204    876   ??  Ss   Mon08PM   0:02.17 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VT
+victoriaschwartz   643   0.0  0.0  5093764   3272   ??  S    Mon08PM   0:02.34 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+victoriaschwartz   642   0.0  0.0  4365596   2360   ??  S    Mon08PM   0:09.24 /usr/libexec/pkd
+victoriaschwartz   641   0.0  0.0  4866608   1436   ??  Ss   Mon08PM   0:00.31 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLook
+victoriaschwartz   640   0.0  0.0  4362920   1148   ??  S    Mon08PM   0:00.34 /usr/libexec/searchpartyuseragent
+victoriaschwartz   639   0.0  0.0  4359744    784   ??  S    Mon08PM   0:00.17 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+victoriaschwartz   638   0.0  0.0  4365564   3220   ??  S    Mon08PM   0:04.88 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/Conte
+victoriaschwartz   637   0.0  0.0  4360796   2548   ??  S    Mon08PM   0:00.59 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServic
+victoriaschwartz   636   0.0  0.0  4335664   1488   ??  S    Mon08PM   0:00.39 /usr/libexec/pboard
+root               635   0.0  0.0  4362572   1548   ??  Ss   Mon08PM   0:00.27 /usr/sbin/systemsoundserverd
+victoriaschwartz   632   0.0  0.2  5201412  12608   ??  S    Mon08PM   0:33.34 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+victoriaschwartz   631   0.0  0.0  5058736   2640   ??  S    Mon08PM   0:01.07 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServ
+victoriaschwartz   630   0.0  0.1  5071576  10676   ??  S    Mon08PM   0:11.43 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+victoriaschwartz   629   0.0  0.1  4981144   6716   ??  R    Mon08PM   1:13.67 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+victoriaschwartz   628   0.0  0.0  4385052   1496   ??  S    Mon08PM   0:00.28 /System/Library/CoreServices/talagent
+victoriaschwartz   627   0.0  0.1  5073488   7744   ??  S    Mon08PM   0:16.91 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/Notifica
+victoriaschwartz   626   0.0  0.1  5531404  11324   ??  S    Mon08PM   0:09.39 /System/Applications/Podcasts.app/Contents/MacOS/Podcasts
+victoriaschwartz   625   0.0  0.0  4258940      0   ??  T    Mon08PM   0:00.00 /Applications/Adobe Acrobat Reader DC.app/Contents/MacOS/AdobeReader
+victoriaschwartz   624   0.0  0.0  4289576      0   ??  T    Mon08PM   0:00.01 /System/Applications/Music.app/Contents/MacOS/Music
+victoriaschwartz   623   0.0  0.0  4263800      0   ??  T    Mon08PM   0:00.01 /System/Applications/Notes.app/Contents/MacOS/Notes
+victoriaschwartz   622   0.0  0.1  4393716   5888   ??  S    Mon08PM   0:03.99 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Su
+victoriaschwartz   621   0.0  0.0  4280680      0   ??  T    Mon08PM   0:00.01 /System/Applications/TV.app/Contents/MacOS/TV
+victoriaschwartz   620   0.0  0.0  4372812   3352   ??  S    Mon08PM   0:01.34 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloud
+victoriaschwartz   619   0.0  0.0  4366068   1840   ??  S    Mon08PM   0:01.81 /usr/libexec/dmd
+victoriaschwartz   618   0.0  0.0  4260072      0   ??  T    Mon08PM   0:00.01 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+victoriaschwartz   617   0.0  0.0  4360604   1896   ??  S    Mon08PM   0:03.36 /usr/libexec/swcd
+victoriaschwartz   616   0.0  0.0  4369716   3036   ??  S    Mon08PM   0:08.72 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/Scree
+victoriaschwartz   615   0.0  0.0  4259000      0   ??  T    Mon08PM   0:00.00 /Applications/Safari.app/Contents/MacOS/Safari
+victoriaschwartz   614   0.0  0.1  4374396   4248   ??  S    Mon08PM   0:02.17 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Conte
+victoriaschwartz   613   0.0  0.0  4360884   1844   ??  S    Mon08PM   0:03.09 /System/Library/CoreServices/lockoutagent
+victoriaschwartz   611   0.0  0.0  4359956    492   ??  S    Mon08PM   0:00.20 /usr/libexec/networkserviceproxy
+victoriaschwartz   610   0.0  0.0  4330092    256   ??  S    Mon08PM   0:00.02 /System/Library/CoreServices/APFSUserAgent
+victoriaschwartz   609   0.0  0.0  4363672   1804   ??  S    Mon08PM   0:07.37 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=glob
+victoriaschwartz   608   0.0  0.0  4373536   3732   ??  S    Mon08PM   0:02.94 /usr/libexec/nsurlsessiond
+victoriaschwartz   607   0.0  0.0  4362720   3312   ??  S    Mon08PM   0:01.50 /usr/sbin/usernoted
+victoriaschwartz   606   0.0  0.0  4359696   1796   ??  S    Mon08PM   0:00.79 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Supp
+victoriaschwartz   605   0.0  0.0  4360844   2232   ??  S    Mon08PM   0:01.30 /usr/libexec/secinitd
+victoriaschwartz   604   0.0  0.0  4258956      0   ??  T    Mon08PM   0:00.00 /Users/victoriaschwartz/Desktop/Skype.app/Contents/MacOS/Skype
+victoriaschwartz   603   0.0  0.1  4368632   5340   ??  S    Mon08PM   0:10.15 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+victoriaschwartz   602   0.0  0.0  4360432   2416   ??  S    Mon08PM   0:01.16 /usr/libexec/rapportd
+victoriaschwartz   601   0.0  0.0  4364740   2684   ??  S    Mon08PM   0:31.10 /usr/libexec/trustd --agent
+victoriaschwartz   600   0.0  0.0  4361488   2496   ??  S    Mon08PM   0:01.16 /System/Library/CoreServices/sharedfilelistd
+victoriaschwartz   599   0.0  0.0  4373356   3116   ??  S    Mon08PM   0:01.55 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+victoriaschwartz   598   0.0  0.0  4361008    840   ??  S    Mon08PM   0:00.18 /System/Library/CoreServices/backgroundtaskmanagementagent
+victoriaschwartz   597   0.0  1.0 38673568  86012   ??  S    Mon08PM   6:22.16 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+victoriaschwartz   596   0.0  0.0  4363680   2600   ??  S    Mon08PM   0:01.14 /usr/libexec/secd
+victoriaschwartz   595   0.0  0.0  4367552   2828   ??  S    Mon08PM   0:07.00 /usr/libexec/lsd
+victoriaschwartz   594   0.0  0.0  4364820   2632   ??  S    Mon08PM   0:05.73 /usr/libexec/knowledge-agent
+victoriaschwartz   593   0.0  0.0  4330144    136   ??  S    Mon08PM   0:00.04 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple
+victoriaschwartz   592   0.0  0.0  4865392   2168   ??  S    Mon08PM   0:00.72 /usr/sbin/universalaccessd launchd -s
+victoriaschwartz   590   0.0  0.0  4362744   2240   ??  S    Mon08PM   0:05.80 /usr/libexec/UserEventAgent (Aqua)
+victoriaschwartz   587   0.0  0.0  4331468   2044   ??  S    Mon08PM   0:15.70 /usr/sbin/cfprefsd agent
+root               586   0.0  0.0  4330092    228   ??  Ss   Mon08PM   0:00.14 /usr/libexec/securityd_service
+victoriaschwartz   585   0.0  0.0  4359904   2200   ??  S    Mon08PM   0:00.11 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+victoriaschwartz   584   0.0  0.0  4301908   1408   ??  S    Mon08PM   0:04.02 /usr/sbin/distnoted agent
+root               583   0.0  0.0  4359792   1268   ??  Ss   Mon08PM   0:00.11 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               558   0.0  0.0  4330080    396   ??  Ss   Mon08PM   0:00.03 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.a
+root               552   0.0  0.0  4360604   1136   ??  S    Mon08PM   0:00.40 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServic
+_locationd         551   0.0  0.1  4376744   5636   ??  Ss   Mon08PM   0:09.93 /usr/libexec/locationd
+root               550   0.0  0.0  4383300    312   ??  Ss   Mon08PM   0:00.79 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Framewo
+_appleevents       547   0.0  0.0  4360472   2536   ??  Ss   Mon08PM   0:00.73 /System/Library/CoreServices/appleeventsd --server
+_atsserver         546   0.0  0.0  4331528    300   ??  Ss   Mon08PM   0:00.44 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.fra
+_windowserver      540   0.0  0.0  4301872    228   ??  S    Mon08PM   0:00.08 /usr/sbin/distnoted agent
+root               445   0.0  0.0  4360172    580   ??  Ss   Mon08PM   0:00.14 /Library/Bitdefender/Central/Agent/bdcredentialsd
+_nsurlsessiond     419   0.0  0.0  4301872    228   ??  S    Mon08PM   0:00.08 /usr/sbin/distnoted agent
+_spotlight         407   0.0  0.0  4301908    304   ??  S    Mon08PM   0:00.09 /usr/sbin/distnoted agent
+root               404   0.0  0.0  4365172   3388   ??  Ss   Mon08PM   0:03.56 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugI
+root               396   0.0  0.1  6177236   9048   ??  Ss   Mon08PM   0:52.36 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+root               395   0.0  0.0  4360828    988   ??  Ss   Mon08PM   0:00.22 /usr/libexec/secinitd
+root               394   0.0  0.0  4373820   3864   ??  Ss   Mon08PM   0:01.26 /Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDCoreIssues
+root               393   0.0  0.0  5083900   3408   ??  Ss   Mon08PM   0:05.49 /Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDLDaemon.ap
+root               392   0.0  0.0  4367560   2380   ??  Ss   Mon08PM   0:03.75 /Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDUpdDaemon
+root               342   0.0  0.0  4329780    220   ??  Ss   Mon08PM   0:00.06 /usr/libexec/smd
+root               337   0.0  0.0  4304992    280   ??  Ss   Mon08PM   0:00.10 /usr/libexec/thermald
+root               328   0.0  0.0  4361384   1356   ??  Ss   Mon08PM   0:00.31 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sy
+root               326   0.0  0.0  4361196   1200   ??  Ss   Mon08PM   0:00.17 /Library/Application Support/AvastSecureLine/components/service/com.avast.o
+root               324   0.0  0.0  4330308    384   ??  Ss   Mon08PM   0:01.50 /usr/libexec/sysmond
+root               320   0.0  0.0  4360228   1136   ??  Ss   Mon08PM   0:01.02 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=glob
+root               318   0.0  0.0  4330124    368   ??  Ss   Mon08PM   0:00.03 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLib
+root               316   0.0  0.0  4365488   2376   ??  Ss   Mon08PM   0:04.74 /usr/libexec/lsd runAsRoot
+root               312   0.0  0.0  4330120    352   ??  Ss   Mon08PM   0:00.11 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -
+root               311   0.0  0.0  4330064   1276   ??  Ss   Mon08PM   0:00.92 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.ap
+root               272   0.0  0.0  4330192    300   ??  Ss   Mon08PM   0:00.03 /System/Library/CoreServices/ReportCrash daemon
+root               258   0.0  0.0  4359860   2020   ??  Ss   Mon08PM   0:02.63 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-help
+root               255   0.0  0.0  4368084   3344   ??  Ss   Mon08PM   0:15.59 /usr/libexec/mobileassetd
+root               252   0.0  0.0  4329784    456   ??  Ss   Mon08PM   0:00.72 /usr/libexec/logd_helper
+_locationd         251   0.0  0.0  4362564    728   ??  S    Mon08PM   0:00.28 /usr/libexec/trustd --agent
+_locationd         250   0.0  0.0  4330076    328   ??  S    Mon08PM   0:00.02 /usr/sbin/cfprefsd agent
+_locationd         249   0.0  0.0  4360316    296   ??  S    Mon08PM   0:00.12 /usr/libexec/secinitd
+_locationd         248   0.0  0.0  4369896   1892   ??  S    Mon08PM   0:01.60 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServi
+_locationd         247   0.0  0.0  4301908    276   ??  S    Mon08PM   0:00.11 /usr/sbin/distnoted agent
+_coreaudiod        239   0.0  0.0  4301872    228   ??  S    Mon08PM   0:00.10 /usr/sbin/distnoted agent
+root               236   0.0  0.0  4361956   1444   ??  Ss   Mon08PM   0:00.86 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awd
+_nsurlsessiond     204   0.0  0.0  4366436   3020   ??  Ss   Mon08PM   0:03.09 /usr/libexec/nsurlsessiond --privileged
+_cmiodalassistants   203   0.0  0.0  4362060    752   ??  Ss   Mon08PM   0:00.16 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Conte
+root               202   0.0  0.0  4359128    528   ??  Ss   Mon08PM   0:00.77 /usr/libexec/usbd
+root               201   0.0  0.0  4369548   3516   ??  Ss   Mon08PM   0:21.80 /usr/libexec/airportd
+root               200   0.0  0.0  4329600    652   ??  Ss   Mon08PM   0:00.12 /usr/libexec/apfsd
+root               199   0.0  0.0  4329572    320   ??  Ss   Mon08PM   0:00.06 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com
+root               197   0.0  0.1  4362204   4388   ??  Ss   Mon08PM   0:15.29 /usr/libexec/runningboardd
+root               188   0.0  0.0  4335188   1368   ??  Ss   Mon08PM   0:01.01 /usr/libexec/diskmanagementd
+root               187   0.0  0.0  4362748    536   ??  Ss   Mon08PM   0:00.35 /usr/libexec/searchpartyd
+root               181   0.0  0.0  4360340    412   ??  Ss   Mon08PM   0:00.72 /usr/sbin/mDNSResponderHelper
+root               180   0.0  0.0  4363432   2600   ??  Ss   Mon08PM   0:51.15 /usr/libexec/trustd
+root               173   0.0  0.0  4360624    796   ??  Ss   Mon08PM   0:00.25 /usr/libexec/findmydeviced
+_networkd          172   0.0  0.1  4370604   4204   ??  Ss   Mon08PM   0:08.59 /usr/libexec/symptomsd
+root               171   0.0  0.0  4359856    972   ??  Ss   Mon08PM   0:00.45 /usr/libexec/nehelper
+_coreaudiod        166   0.0  0.0  4373576   1584   ??  Ss   Mon08PM   0:05.66 /usr/sbin/coreaudiod
+root               156   0.0  0.0  4301908    540   ??  S    Mon08PM   0:00.12 /usr/sbin/distnoted agent
+_mdnsresponder     155   0.0  0.0  4365856   3320   ??  Ss   Mon08PM   0:11.47 /usr/sbin/mDNSResponder
+root              9700   0.0  0.0  4278156    996 s000  R+    7:15PM   0:00.00 ps aux
+root               147   0.0  0.0  4373292   1216   ??  Ss   Mon08PM   0:01.03 /System/Library/CoreServices/coreservicesd
+root               146   0.0  0.0  4373184   1740   ??  Ss   Mon08PM   0:04.52 /usr/libexec/amfid
+_analyticsd        144   0.0  0.0  4370300   3044   ??  Ss   Mon08PM   0:05.51 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analytics
+root               143   0.0  0.0  4411576   3868   ??  Ss   Mon08PM   3:24.62 /usr/libexec/syspolicyd
+victoriaschwartz   142   0.0  0.1  4601864   7392   ??  Ss   Mon08PM   0:07.37 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow con
+root               141   0.0  0.0  4359820   1672   ??  Ss   Mon08PM   0:00.62 /usr/libexec/taskgated
+root               140   0.0  0.0  4366472   2596   ??  Ss   Mon08PM   0:10.39 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+root               139   0.0  0.0  4329804    232   ??  Ss   Mon08PM   0:00.14 aslmanager
+root               137   0.0  0.0  4330788   1892   ??  Ss   Mon08PM   0:07.20 /usr/sbin/cfprefsd daemon
+root               136   0.0  0.0  4363148   1580   ??  Ss   Mon08PM   0:02.76 /usr/libexec/AirPlayXPCHelper
+root               135   0.0  0.0  4359684   1672   ??  Ss   Mon08PM   0:01.63 /usr/libexec/corebrightnessd --launchd
+root               134   0.0  0.0  4384504   3168   ??  Ss   Mon08PM   0:25.40 /usr/libexec/sandboxd
+root               133   0.0  0.0  4330456   1544   ??  Ss   Mon08PM   0:07.12 /usr/sbin/notifyd
+root               132   0.0  0.0  4364004   2400   ??  Ss   Mon08PM   0:02.74 /usr/sbin/bluetoothd
+root               130   0.0  0.0  4313656    248   ??  Ss   Mon08PM   0:00.03 /usr/sbin/KernelEventAgent
+root               129   0.0  0.0  4362492   2092   ??  Ss   Mon08PM   0:01.59 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/
+root               128   0.0  0.0  4329600    772   ??  Ss   Mon08PM   0:00.12 /System/Library/CoreServices/logind
+root               125   0.0  0.0  4330204    332   ??  Ss   Mon08PM   0:00.27 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCre
+_distnote          124   0.0  0.0  4301908    788   ??  Ss   Mon08PM   0:00.60 /usr/sbin/distnoted daemon
+root               122   0.0  0.1  4371244   4768   ??  Ss   Mon08PM   0:19.80 /usr/libexec/dasd
+_displaypolicyd    121   0.0  0.0  4332724    444   ??  Ss   Mon08PM   0:00.15 /usr/libexec/displaypolicyd -k 1
+root               120   0.0  0.0  4330140    184   ??  Ss   Mon08PM   0:00.03 autofsd
+root               116   0.0  0.0  4321320    172   ??  Ss   Mon08PM   0:00.02 auditd -l
+root               115   0.0  0.0  4362308   2612   ??  Ss   Mon08PM   0:01.03 /usr/sbin/securityd -i
+_usbmuxd           114   0.0  0.0  4362948    672   ??  Ss   Mon08PM   0:00.31 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resourc
+_timed             112   0.0  0.0  4359504   1328   ??  Ss   Mon08PM   0:00.95 /usr/libexec/timed
+root               111   0.0  0.0  4361596   3260   ??  Ss   Mon08PM   0:15.96 /System/Library/CoreServices/launchservicesd
+root               110   0.0  0.0  4367220   3056   ??  Ss   Mon08PM   0:02.90 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               107   0.0  0.1  4365952   4336   ??  Ss   Mon08PM   0:11.29 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/conte
+root               106   0.0  0.0  4321160    136   ??  Ss   Mon08PM   0:00.03 /usr/libexec/thermalmonitord
+root               102   0.0  0.0  4379932   2928   ??  Ss   Mon08PM   0:34.82 /usr/libexec/coreduetd
+root                99   0.0  0.0  4359224   2028   ??  Ss   Mon08PM   0:26.73 /usr/libexec/diskarbitrationd
+root                98   0.0  0.0  4369932   1916   ??  Ss   Mon08PM   0:17.16 /usr/libexec/kernelmanagerd
+_iconservices       97   0.0  0.0  4330616    892   ??  Ss   Mon08PM   0:00.16 /System/Library/CoreServices/iconservicesd
+root                96   0.0  0.1  4371360   4496   ??  Ss   Mon08PM   0:03.37 /Library/Bitdefender/Central/Agent/bdagentd
+root                95   0.0  0.0  4320844    244   ??  Ss   Mon08PM   0:00.02 /Library/Application Support/Seagate/TBLoopDriveParams
+root                94   0.0  0.1  4480088   7644   ??  Us   Mon08PM   0:58.96 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+root                90   0.0  0.0  4330108   1024   ??  Ss   Mon08PM   0:00.42 /usr/libexec/watchdogd
+_softwareupdate     88   0.0  0.0  4360080   1076   ??  Ss   Mon08PM   0:00.25 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/so
+root                85   0.0  0.0  4330036    844   ??  Ss   Mon08PM   0:00.88 /usr/libexec/keybagd -t 15
+root                84   0.0  0.0  4452736   3020   ??  Ss   Mon08PM   0:17.73 /usr/libexec/logd
+root                82   0.0  0.0  4359892    280   ??  Ss   Mon08PM   0:00.13 /usr/libexec/remoted
+root                78   0.0  0.0  4363392   1792   ??  Ss   Mon08PM   0:00.28 /Library/Application Support/Avira Security/privd.app/Contents/MacOS/privd
+root                77   0.0  0.0  4360920   3120   ??  Ss   Mon08PM   0:08.54 /System/Library/CoreServices/powerd.bundle/powerd
+root                76   0.0  0.0  4360268    356   ??  Ss   Mon08PM   0:00.17 endpointsecurityd
+root                75   0.0  0.0  4329548    432   ??  Ss   Mon08PM   0:00.04 /Library/PreferencePanes/ParagonNTFS.prefPane/Contents/Resources/com.parago
+root                74   0.0  0.0  4364904   1492   ??  Ss   Mon08PM   0:06.56 /usr/libexec/configd
+root                72   0.0  0.0  4369540   3188   ??  Ss   Mon08PM   0:10.92 /usr/sbin/systemstats --daemon
+root                69   0.0  0.0  4363352   1808   ??  Ss   Mon08PM   0:00.86 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremote
+root                68   0.0  0.0  4338244   2004   ??  Ss   Mon08PM   0:42.75 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSE
+root                67   0.0  0.0  4313412    520   ??  Ss   Mon08PM   0:00.46 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                62   0.0  0.0  4362504   2048   ??  Ss   Mon08PM   0:05.82 /usr/libexec/UserEventAgent (System)
+root                61   0.0  0.0  4331696    764   ??  Ss   Mon08PM   0:04.08 /usr/sbin/syslogd
+root               153   0.0  0.0  4361968   2904   ??  Ss   Mon08PM   0:01.43 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.
+root              9696   0.0  0.0  4304436   3940   ??  Ss    7:14PM   0:00.03 /usr/libexec/PowerUIAgent
+victoriaschwartz  9695   0.0  0.0  4337616   4064   ??  S     7:14PM   0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz  9694   0.0  0.1  4371564   7296   ??  S     7:14PM   0:00.07 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefa
+victoriaschwartz  9693   0.0  0.3 1188989792  24964   ??  S     7:14PM   0:00.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz  9692   0.0  0.6 1189036740  53036   ??  S     7:14PM   0:00.51 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz  9688   0.0  0.1  4337616   8620   ??  S     7:14PM   0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz  9687   0.0  0.0  4337616   3536   ??  S     7:14PM   0:00.15 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz  9686   0.0  1.1 1189126480  94340   ??  S     7:14PM   0:02.54 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz  9680   0.0  0.1  4338144   8652   ??  S     7:13PM   0:00.17 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.frame
+victoriaschwartz  9575   0.0  1.1 1189113696  89456   ??  S     6:58PM   0:06.70 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz  9533   0.0  0.1 1189070444  12128   ??  S     6:55PM   0:02.61 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework
+victoriaschwartz  8476   0.0  0.1  4373764   8352   ??  S     6:35PM   0:00.68 /usr/libexec/remindd
+root              8423   0.0  0.1  4366084   7832   ??  Ss    3:46PM   0:03.61 /usr/libexec/PerfPowerServices
