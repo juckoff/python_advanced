@@ -12,29 +12,34 @@
 from flask import Flask
 from flask_wtf import FlaskForm
 from wtforms import IntegerField, StringField
-from hw2_validators import number_length, NumberLength
+from wtforms.validators import InputRequired, Email                  # , NumberRange
+from module_04_flask.homework.hw1_3.hw2_validators import NumberLength
 
 app = Flask(__name__)
 
 
 class RegistrationForm(FlaskForm):
-    email = StringField()
-    phone = IntegerField()
-    name = StringField()
-    address = StringField()
-    index = IntegerField()
+    email = StringField(validators=[InputRequired('не должно быть пустым'), Email()])
+    # phone = IntegerField(validators=[InputRequired('не должно быть пустым'), NumberRange(
+    #     min=1000000000, max=99999999999)])
+    phone = IntegerField(validators=[InputRequired('вы не ввели номер телефона'),
+                                     NumberLength(minimum=1000000000, maximum=99999999999,
+                                                  message=None)])
+    name = StringField(validators=[InputRequired('не должно быть пустым')])
+    address = StringField(validators=[InputRequired('не должно быть пустым')])
+    index = IntegerField(validators=[InputRequired('не должно быть пустым')])
     comment = StringField()
 
 
 @app.route("/registration", methods=["POST"])
 def registration():
     form = RegistrationForm()
-
+    # import json
+    # with open('registration.json', 'w', encoding='utf-8') as reg:
+    #     reg.write(json.dumps(form.data, indent=4))
     if form.validate_on_submit():
-        email, phone = form.email.data, form.phone.data
-
-        return f"Successfully registered user {email} with phone +7{phone}"
-
+        name, email, phone = form.name.data, form.email.data, form.phone.data
+        return f"Successfully registered user {name} with email {email} and with phone +7{phone}"
     return f"Invalid input, {form.errors}", 400
 
 
