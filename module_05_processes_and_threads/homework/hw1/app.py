@@ -1,33 +1,34 @@
-import datetime
-import os
-import shlex
-import signal
 import subprocess
-
-from flask import Flask
-
-app = Flask(__name__)
+import shlex
+import argparse
 
 
-@app.route('/test')
-def test_function():
-    return 'Это тестовая страничка, ответ сгенерирован в %s' % \
-           datetime.datetime.now().utcnow()
+def flask_run(port):
+    flask_run_command = shlex.split(f'python -m flask run -p {port}')
+    subprocess.Popen(flask_run_command)
+
+    pid = port_checker(port)
+    process_killer(pid)
 
 
-def run_with_port(user_port):
-    try:
-        app.run(debug=True, port=user_port)
-    except OSError:
-        command_str = f"lsof -Fp -i :{user_port}"
-        command = shlex.split(command_str)
-        result = subprocess.run(command, capture_output=True)
-        processes = result.stdout.decode().split('\n')
-        pids = set()
+def port_checker(port):
+    port_check_command = shlex.split(f'lsof -i :{port}')
+    port_check_process = subprocess.run(port_check_command, stdout=subprocess.PIPE)
+    output = port_check_process.stdout.decode('utf-8')
+    if output:
+        pid_of_running_flask_process = output.split('\n')[1].split(' ')[2]
 
-        for proc in processes:
-            if proc.startswith('p'):
-                pids.add(proc[1:])
+        return pid_of_running_flask_process
 
-        for PID in pids:
-            os.kill(int(PID), signal.SIGKILL)
+
+def process_killer(pid):
+    if pid:
+        kill_command = shlex.split(f'kill -9 {pid}')
+        subprocess.run(kill_command)
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='flask_app_start')
+    parser.add_argument('--port', dest="port", required=True, type=int)
+    args = parser.parse_args()
+    flask_run(port=args.port)
