@@ -1,34 +1,52 @@
-import subprocess
+import os
 import shlex
-import argparse
+import signal
+import subprocess as sp
+from flask import Flask
+
+app = Flask(__name__)
 
 
-def flask_run(port):
-    flask_run_command = shlex.split(f'python -m flask run -p {port}')
-    subprocess.Popen(flask_run_command)
+def get_pids(port: int) -> list[int]:
+    """
+    Возвращает список PID процессов, занимающих переданный порт
+    @param port: порт
+    @return: список PID процессов, занимающих порт
+    """
+    if not isinstance(port, int):
+        raise ValueError
 
-    pid = port_checker(port)
-    process_killer(pid)
+    command: str = f'lsof -i :{port}'
+
+    args: list[str] = shlex.split(command)
+    try:
+        output: str = sp.check_output(args).decode()
+    except sp.CalledProcessError:
+        return []
+    lines: list[str] = output.splitlines()[1:]
+    pids: list[int] = [int(line.split()[1]) for line in lines]
+    return pids
 
 
-def port_checker(port):
-    port_check_command = shlex.split(f'lsof -i :{port}')
-    port_check_process = subprocess.run(port_check_command, stdout=subprocess.PIPE)
-    output = port_check_process.stdout.decode('utf-8')
-    if output:
-        pid_of_running_flask_process = output.split('\n')[1].split(' ')[2]
+def free_port(port: int) -> None:
+    """
+    Завершает процессы, занимающие переданный порт
+    @param port: порт
+    """
+    pids: list[int] = get_pids(port)
+    for pid in pids:
+        os.kill(pid, signal.SIGKILL)
 
-        return pid_of_running_flask_process
 
-
-def process_killer(pid):
-    if pid:
-        kill_command = shlex.split(f'kill -9 {pid}')
-        subprocess.run(kill_command)
+def run(port: int) -> None:
+    """
+    Запускает flask-приложение по переданному порту.
+    Если порт занят каким-либо процессом, завершает его.
+    @param port: порт
+    """
+    free_port(port)
+    app.run(port=port)
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='flask_app_start')
-    parser.add_argument('--port', dest="port", required=True, type=int)
-    args = parser.parse_args()
-    flask_run(port=args.port)
+    run(5000)
